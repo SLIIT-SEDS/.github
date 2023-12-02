@@ -13,11 +13,11 @@
 
 Welcome to the GitHub Organization of SLIIT Students for the Exploration and Development of Space (SEDS) Chapter!
 
-## About Us
+## About Us🧑‍🚀
 
 SLIIT SEDS Chapter is a student-driven organization at the Sri Lanka Institute of Information Technology (SLIIT) dedicated to promoting space exploration, research, and development. Our mission is to inspire, educate, and engage students in space-related activities.
 
-## Table of Contents
+## Table of Contents 💻
 
 - [About Us](#about-us)
 - [Projects](#projects)
@@ -26,7 +26,7 @@ SLIIT SEDS Chapter is a student-driven organization at the Sri Lanka Institute o
 - [Contact](#contact)
 - [Connect with Us](#connect-with-us)
 
-## Projects
+## Projects 🔮
 
 Explore our ongoing projects and contribute to the future of space exploration. Whether you're a beginner or an experienced developer, there's a place for you in our community.
 
@@ -40,11 +40,11 @@ Explore our ongoing projects and contribute to the future of space exploration. 
 
 To contribute to a project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
 
-## Contributing
+## Contributing 🔭
 
 We welcome contributions from anyone interested in space exploration and development. If you're new to open source or want to get involved, check out our [Contribution Guidelines](CONTRIBUTING.md) for detailed information on how to contribute.
 
-### Getting Started
+### Getting Started 🛠️
 
 1. Fork the repository.
 2. Create your feature branch: `git checkout -b feature/new-feature`.
@@ -52,11 +52,11 @@ We welcome contributions from anyone interested in space exploration and develop
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Open a pull request.
 
-## Code of Conduct
+## Code of Conduct 🎯
 
 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in our community. We aim to create a welcoming and inclusive space for everyone.
 
-## Contact
+## Contact 👀
 
 If you have any questions, concerns, or suggestions, please feel free to reach out to us:
 
@@ -66,7 +66,7 @@ If you have any questions, concerns, or suggestions, please feel free to reach o
 - Twitter: [@SLIITSEDS](https://twitter.com/SLIITSEDS)
 -->
 
-## Connect with Us
+## Connect with Us ❤️
 
 Stay updated on our activities and connect with us on social media:
 
