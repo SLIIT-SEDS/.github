@@ -61,11 +61,7 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in 
 If you have any questions, concerns, or suggestions, please feel free to reach out to us:
 
 - Email: [sliitseds@gmail.com](mailto:sliitseds@gmail.com)
-  <!--
-- Slack: [SLIIT SEDS Slack Workspace](link/to/slack)
-- Twitter: [@SLIITSEDS](https://twitter.com/SLIITSEDS)
--->
-
+ 
 ## Connect with Us ❤️
 
 Stay updated on our activities and connect with us on social media:
@@ -74,4 +70,4 @@ Stay updated on our activities and connect with us on social media:
 - Instagram: [@sliitseds](https://www.instagram.com/sliitseds/)
 - Facebook: [SLIIT SEDS Chapter](https://www.facebook.com/sliitseds/)
 
-We look forward to collaborating with you in the exciting world of space exploration!
+We look forward to collaborating with you in the exciting world of space exploration! 👩‍🚀🚀
